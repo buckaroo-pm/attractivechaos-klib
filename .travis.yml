@@ -29,5 +29,5 @@ before_install:
 
 script:
   - ./buckaroo-client install
-  - buck build -c ui.superconsole=DISABLED //:kbit
+  - buck build -c ui.superconsole=DISABLED //:klib
   - buck run -c ui.superconsole=DISABLED //:test-kbit
