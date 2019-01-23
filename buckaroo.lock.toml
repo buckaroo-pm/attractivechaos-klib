@@ -1,4 +1,4 @@
-manifest = "acb7ecceb75915f8d749888ab92443f7c1f9756bc4716f6fe2a4c196fc453db6"
+manifest = "539fe2c4bcc0603d6e5b376e03d4a93c7fe5f5124ed1d3454256c5649f076d4f"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/host-pthread"
