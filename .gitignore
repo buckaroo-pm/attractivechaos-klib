@@ -38,3 +38,11 @@ test/kstring_bench
 test/kstring_bench2
 test/kstring_test
 test/kvec_test
+
+buck-out
+.buckd
+buckaroo
+buckaroo_macros.bzl
+.buckconfig.d
+.buckconfig.local
+
