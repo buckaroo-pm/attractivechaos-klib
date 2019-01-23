@@ -1,3 +1,4 @@
+targets = [ "//:klib" ]
 
 [[dependency]]
 package = "github.com/buckaroo-pm/host-pthread"
