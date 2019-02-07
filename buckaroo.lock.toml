@@ -1,4 +1,4 @@
-manifest = "acb7ecceb75915f8d749888ab92443f7c1f9756bc4716f6fe2a4c196fc453db6"
+manifest = "539fe2c4bcc0603d6e5b376e03d4a93c7fe5f5124ed1d3454256c5649f076d4f"
 
 [[dependency]]
 package = "github.com/buckaroo-pm/host-pthread"
@@ -14,4 +14,4 @@ revision = "a62519aa69c8e3243d6065fbf4c1d2de072f86f6"
 
 [lock."github.com/buckaroo-pm/madler-zlib"]
 versions = [ "branch=master" ]
-revision = "906f727175ca6a7f8943e375467d6e461a55b68d"
+revision = "81e58039a82d50f9c7768c651dce21834557aec1"
